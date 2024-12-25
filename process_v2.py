@@ -22,7 +22,7 @@ download('stopwords')
 data = pd.read_csv('Reviews.csv')
 
 # Limit the dataset for faster execution
-data = data.head(1000)
+data = data.head(10000)
 
 
 # Label sentiments
