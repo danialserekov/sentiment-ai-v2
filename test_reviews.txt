@@ -1,0 +1,22 @@
+"This product is great! I love it." - Positive
+"It was okay, not amazing, but decent." - Neutral
+"Worst purchase ever. Totally disappointed." - Negative
+"Really good, but not perfect. I would recommend it." - Positive
+"Absolutely terrible, I will never buy it again." - Negative
+"Wtf is it" - Negative
+"Wow, beast" - Positive
+"Normal, clean" - Neutral
+"Damn, that's cool" - Positive
+"Shit" - Negative
+"Yo, this thing slaps! Totally worth it." - Positive
+"Bruh, waste of money. I'm mad disappointed." - Negative
+"Aight, it's chill, but I seen better." - Neutral
+"Man, this is fire! 10/10 would cop again." - Positive
+"Straight trash, don't bother. Smh." - Negative
+"Sheesh, this product is clean, love it!" - Positive
+"Meh, it's whatever, not that deep." - Neutral
+"Fr? This is insane, best thing I've bought!" - Positive
+"Nah fam, not feeling it. Broke after a week." - Negative
+"Lowkey thought it'd suck, but it's actually solid." - Positive
+"This ain't it chief, I'm done with it." - Negative
+"Hella good, legit the GOAT product." - Positive
